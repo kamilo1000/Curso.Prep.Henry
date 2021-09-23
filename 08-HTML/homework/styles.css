@@ -1,0 +1,27 @@
+
+h1{
+    color: rgb(219, 8, 8);
+}
+#thrirdDiv img{
+    width: 500px; 
+    height: 600px; 
+}
+img{
+    width: 400px;
+    padding: 50px; 
+    border: rgb(9, 63, 82) 18px solid; 
+    background-color: cornflowerblue;
+}
+#spanId{
+    font-size: 18px;
+     margin: 50px;
+}
+body{
+    background-image: url(fondo2.jpg);
+}
+.divClass{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
